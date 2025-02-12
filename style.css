@@ -8,11 +8,14 @@ body {
   text-align: center;
   color: navy;
   margin: auto;
-  font-family: water;
+  
+  font-family: Sans-serif;
+  font-style: italic;
 }
 
 h1{
   font-size: 30px;
+  font-family: water;
 }
 
 #myCanvas {
@@ -21,6 +24,3 @@ h1{
   border-radius: 300px;
   border: 5px solid white;
 }
-
-
-
